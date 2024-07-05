@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a File Transfer Application**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://adityashukla-portfolio.netlify.app](https://adityashukla-portfolio.netlify.app)
 
